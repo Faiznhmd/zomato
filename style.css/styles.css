@@ -63,8 +63,9 @@ body {
 	align-items: center;
 	justify-content: space-between;
 	gap: 60px;
-	height: calc(100vh - 120px);
+	margin-bottom: 100px;
 }
+
 .hero-image {
 	width: 500px;
 	height: 500px;
